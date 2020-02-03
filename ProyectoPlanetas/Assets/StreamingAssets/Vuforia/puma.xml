@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="icon" size="0.200000 0.204444" />
+    <ImageTarget name="NASA" size="0.200000 0.112500" />
+    <ImageTarget name="Astronautaa" size="0.200000 0.345455" />
+    <ImageTarget name="puma-logo" size="0.200000 0.127970" />
+  </Tracking>
+</QCARConfig>
